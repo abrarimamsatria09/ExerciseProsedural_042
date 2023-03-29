@@ -7,7 +7,7 @@ int main() {
     string nama;
     int nilai_mat, nilai_bing, nilai_rata, total_diterima = 0, total_tidak_diterima = 0, status;
 
-    for (int i = 1; i <= 2; i++) {
+    for (int i = 1; i <= 20; i++) {
         cout << "Masukkan nama pendaftar: ";
         cin >> nama;
         cout << "Masukkan nilai matematika: ";
